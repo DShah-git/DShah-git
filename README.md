@@ -8,6 +8,6 @@
 
 <h2> What am I doing right now? </h2>
 
-  I am looking for a job at the moment. If you have an oportunity for me shoot me a [email](mailto:devanshshah2001@gmail.com)
+  I am looking for a job at the moment. If you have an oportunity for me shoot me a [devanshshah2001@gmail.com](mailto:devanshshah2001@gmail.com)
   I would love to hear from you.
 
